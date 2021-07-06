@@ -7,7 +7,7 @@ The application is deployed and can be tested using the following link: https://
 
 Unit test must be added.
 
-## Start the project
+## Start the project    
 
 ### `yarn install`
 ### `yarn start`
